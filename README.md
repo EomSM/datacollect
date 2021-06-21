@@ -1,2 +1,2 @@
 # datacollect
-data analysis
+big data analysis, EDA, Machine learning
